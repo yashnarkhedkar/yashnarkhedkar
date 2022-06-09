@@ -63,24 +63,3 @@ I am Yash Narkhedkar, currently pursuing my B.Tech degree in Information Technol
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnarkhedkar&theme=tokyonight" />
 </p>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 08 May 2022 - To: 07 June 2022
-
-Other        21 hrs 5 mins   █████████████████████▓░░░   86.00 %
-```
-
-<!--END_SECTION:waka-->
-
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#287](https://github.com/elebumm/RedditVideoMakerBot/issues/287) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#287](https://github.com/elebumm/RedditVideoMakerBot/issues/287) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-3. 🗣 Commented on [#287](https://github.com/elebumm/RedditVideoMakerBot/issues/287) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-4. 🎉 Merged PR [#398](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/398) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-5. ❌ Closed PR [#1](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/1) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
-<!--END_SECTION:activity-->
-
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
