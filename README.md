@@ -1,6 +1,6 @@
-# Hi, I am [Yash](https://yashnarkhedkar.github.io/)! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+# Hi, I am Yash! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-I am Yash Narkhedkar, currently pursuing my B.Tech degree in Information Technology from [G H Raisoni Engineering College](https://ghrcem.raisoni.net/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am [Yash Narkhedkar](https://yashnarkhedkar.github.io/), currently pursuing my B.Tech degree in Information Technology from [G H Raisoni Engineering College](https://ghrcem.raisoni.net/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashnarkhedkar@gmail.com)](mailto:yashnarkhedkar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashnarkhedkar/)](https://www.linkedin.com/in/yash-narkhedkar/)
