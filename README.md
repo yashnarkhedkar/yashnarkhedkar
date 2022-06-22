@@ -1,4 +1,4 @@
-# Hi, I am Yash! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+# Hi, I am [Yash](https://yashnarkhedkar.github.io/)! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
 I am Yash Narkhedkar, currently pursuing my B.Tech degree in Information Technology from [G H Raisoni Engineering College](https://ghrcem.raisoni.net/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
