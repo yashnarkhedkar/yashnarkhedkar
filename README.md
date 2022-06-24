@@ -6,7 +6,7 @@ I am [Yash Narkhedkar](https://yashnarkhedkar.github.io/), currently pursuing my
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashnarkhedkar/)](https://www.linkedin.com/in/yash-narkhedkar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yashnarkhedkar)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yashnarkhedkar)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashnarkhedkar/)](https://instagram.com/yashnarkhedkar)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashnarkhedkar/)](https://instagram.com/yash_narkhedkar)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/UCj4VqujvhJlzdejYA7yTIlg)
 
 [![yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yashnarkhedkar&theme=xcode)](https://github.com/yashnarkhedkar)
