@@ -9,8 +9,6 @@ I am [Yash Narkhedkar](https://yashnarkhedkar.github.io/Personal-Portofolio/), c
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashnarkhedkar/)](https://instagram.com/yash_narkhedkar)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/UCj4VqujvhJlzdejYA7yTIlg)
 
-[![yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yashnarkhedkar&theme=xcode)](https://github.com/yashnarkhedkar)
-
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yashnarkhedkar/)
