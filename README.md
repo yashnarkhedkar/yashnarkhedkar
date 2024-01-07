@@ -7,7 +7,6 @@ I am [Yash Narkhedkar](https://yashnarkhedkar.github.io/Personal-Portofolio/), c
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yashnarkhedkar)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yashnarkhedkar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashnarkhedkar/)](https://instagram.com/yash_narkhedkar)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/UCj4VqujvhJlzdejYA7yTIlg)
 
 ## 👨🏻‍💻 Coding Profiles
 
